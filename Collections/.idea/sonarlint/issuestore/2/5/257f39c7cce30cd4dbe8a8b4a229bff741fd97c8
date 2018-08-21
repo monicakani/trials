@@ -1,0 +1,31 @@
+
+Dsquid:S1481
+"&Remove this unused "l" local variable.(‡¹»‹8ñâßãÕ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ø±Çë8×¤áäÕ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÃÆÒ­8–¢íãÕ,
+Lsquid:S1481")Remove this unused "lAry" local variable.(É«‚‡ùÿÿÿÿ8¡êîãÕ,
+Lsquid:S1481")Remove this unused "alll" local variable.(ì«Ë”ûÿÿÿÿ8×¤áäÕ,
+Ssquid:S1854"6Remove this useless assignment to local variable "l3".(‚€M8‹ÅããÕ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(áĞİî8¾üäÕ,
+Dsquid:S1481"&Remove this unused "d" local variable.(ªõ 8¾¦àãÕ,
+[squid:S1854"8Remove this useless assignment to local variable "alll".(ì«Ë”ûÿÿÿÿ8×¤áäÕ,
+Xsquid:S1854"5Remove this useless assignment to local variable "p".(š›Ñ»ÿÿÿÿÿ8ñâßãÕ,
+Isquid:S1481"&Remove this unused "a" local variable.(íĞÆ¨øÿÿÿÿ8ñâßãÕ,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ì«¹úøÿÿÿÿ8ï÷âäÕ,
+Ysquid:S1854"6Remove this useless assignment to local variable "l1".(÷¾ŠÌøÿÿÿÿ8–ÊâãÕ,
+Xsquid:S1854"5Remove this useless assignment to local variable "a".(íĞÆ¨øÿÿÿÿ8ñâßãÕ,
+Ssquid:S1854
+"5Remove this useless assignment to local variable "l".(‡¹»‹8ñâßãÕ,
+[squid:S1197"8Move the array designator from the variable to the type.(É«‚‡ùÿÿÿÿ8¡êîãÕ,
+¤squid:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°—´éüÿÿÿÿ8˜ªêäÕ,
+Jsquid:S1481"'Remove this unused "l2" local variable.(¢âÒ„øÿÿÿÿ8–ÊâãÕ,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì«Ë”ûÿÿÿÿ8´üµäÕ,
+Dsquid:S1481"'Remove this unused "l3" local variable.(‚€M8‹ÅããÕ,
+[squid:S1854"8Remove this useless assignment to local variable "lAry".(É«‚‡ùÿÿÿÿ8¡êîãÕ,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‰ÿíúÿÿÿÿ8ÊèäÕ,
+Jsquid:S1481"'Remove this unused "l1" local variable.(÷¾ŠÌøÿÿÿÿ8–ÊâãÕ,
+Ssquid:S1854"5Remove this useless assignment to local variable "d".(ªõ 8¾¦àãÕ,
+Ysquid:S1854"6Remove this useless assignment to local variable "l2".(¢âÒ„øÿÿÿÿ8–ÊâãÕ,
+Isquid:S1481"&Remove this unused "p" local variable.(š›Ñ»ÿÿÿÿÿ8ñâßãÕ,

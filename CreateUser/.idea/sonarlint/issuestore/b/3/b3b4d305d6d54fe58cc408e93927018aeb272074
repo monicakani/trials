@@ -1,0 +1,7 @@
+
+8squid:S1220""Move this file to a named package.8é¬ƒ×Õ,
+Ysquid:S1854"6Remove this useless assignment to local variable "u2".(öÌòïÿÿÿÿÿ8íĞ„×Õ,
+Ysquid:S1854"6Remove this useless assignment to local variable "u1".(¸ÌŠÿÿÿÿÿ8æ±æÖÕ,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8æ±æÖÕ,
+Jsquid:S1481"'Remove this unused "u2" local variable.(öÌòïÿÿÿÿÿ8íĞ„×Õ,
+Jsquid:S1481"'Remove this unused "u1" local variable.(¸ÌŠÿÿÿÿÿ8æ±æÖÕ,

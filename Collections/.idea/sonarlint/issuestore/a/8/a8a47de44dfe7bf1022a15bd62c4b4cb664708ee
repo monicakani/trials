@@ -1,0 +1,20 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó÷¬‰8¤ÚñâÕ,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éÀÉ8ÒÛç×Õ,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(êÜÃ‚8úçìâÕ,
+Ysquid:S1854"6Remove this useless assignment to local variable "u4".(¶ÞÈþÿÿÿÿ8òõµ×Õ,
+Jsquid:S1481"'Remove this unused "u4" local variable.(¶ÞÈþÿÿÿÿ8òõµ×Õ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡´·ðøÿÿÿÿ8¬óç×Õ,
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ô”îè8ˆÊ‹ãÕ,
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Ã¢øÓ8øæðâÕ,
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(íê­…8è½üâÕ,
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ª„ê‹8è½üâÕ,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(áèŠŸûÿÿÿÿ8á¥ƒãÕ,
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(³‘Ž›8‚ÚëâÕ,

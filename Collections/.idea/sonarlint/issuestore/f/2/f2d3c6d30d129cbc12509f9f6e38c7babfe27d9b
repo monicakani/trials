@@ -1,0 +1,48 @@
+
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¹€ùşÿÿÿÿÿ8ã†ÕàÕ,
+Ysquid:S1854F";Remove this useless assignment to local variable "vesRef1".(Â¤·8ÅëƒÛÕ,
+^squid:S1854I";Remove this useless assignment to local variable "vesRef4".(ÙÇùÅøÿÿÿÿ8ÅëƒÛÕ,
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(»‰‚Œ8–´ÛàÕ,
+Jsquid:S1481",Remove this unused "cheRef3" local variable.(œÚÉ8–åÿÚÕ,
+Ysquid:S1854
+";Remove this useless assignment to local variable "cheRef2".(¡Åêİ8–åÿÚÕ,
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÚîÑ•ıÿÿÿÿ8±êàÕ,
+^squid:S1854	";Remove this useless assignment to local variable "cheRef1".(«ñøùÿÿÿÿ8–åÿÚÕ,
+Osquid:S1481I",Remove this unused "vesRef4" local variable.(ÙÇùÅøÿÿÿÿ8ÅëƒÛÕ,
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ĞÈƒ…8¹¦ÚàÕ,
+Jsquid:S1481G",Remove this unused "vesRef2" local variable.(ƒ‚ĞÖ8ÅëƒÛÕ,
+Jsquid:S1481F",Remove this unused "vesRef1" local variable.(Â¤·8ÅëƒÛÕ,
+Nsquid:S1481"+Remove this unused "cheRef" local variable.(Œ®…Üşÿÿÿÿ8¤ÕşÚÕ,
+Osquid:S1481	",Remove this unused "cheRef1" local variable.(«ñøùÿÿÿÿ8–åÿÚÕ,
+Isquid:S1481",Remove this unused "cheRef4" local variable.(ÊÜ-8–åÿÚÕ,
+Xsquid:S1854E":Remove this useless assignment to local variable "vesRef".(Æ”ÎÄ8êø‚ÛÕ,
+Jsquid:S1481
+",Remove this unused "cheRef2" local variable.(¡Åêİ8–åÿÚÕ,
+]squid:S1854":Remove this useless assignment to local variable "cheRef".(Œ®…Üşÿÿÿÿ8¤ÕşÚÕ,
+Ysquid:S1854";Remove this useless assignment to local variable "cheRef3".(œÚÉ8–åÿÚÕ,
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(»‰‚Œ8€ÌßàÕ,
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(öı¦±úÿÿÿÿ8‰—ßÕ,
+Isquid:S1481E"+Remove this unused "vesRef" local variable.(Æ”ÎÄ8êø‚ÛÕ,
+Jsquid:S1481H",Remove this unused "vesRef3" local variable.(Ë¡ÌÄ8ÅëƒÛÕ,
+Ysquid:S1854H";Remove this useless assignment to local variable "vesRef3".(Ë¡ÌÄ8ÅëƒÛÕ,
+Xsquid:S1854";Remove this useless assignment to local variable "cheRef4".(ÊÜ-8–åÿÚÕ,
+squid:S11925"pDefine a constant instead of duplicating this literal "-----------------------------------------------" 4 times.(»‰‚Œ8–•ãàÕ,
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¢Èß¿üÿÿÿÿ8ŸÖÛÕ,
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(‡›–8“ÎŞàÕ,
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(»‰‚Œ8–•ãàÕ,
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(©’œÔ8ÕçáàÕ,
+Ysquid:S1854G";Remove this useless assignment to local variable "vesRef2".(ƒ‚ĞÖ8ÅëƒÛÕ,
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(»‰‚Œ8­°çàÕ,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ø¢Ù½øÿÿÿÿ8„ˆàÕ,
